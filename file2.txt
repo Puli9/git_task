@@ -1,0 +1,3 @@
+this is change in feature1 branch
+
+this is second change in conflict-branch
